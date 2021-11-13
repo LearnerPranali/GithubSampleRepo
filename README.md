@@ -1,1 +1,2 @@
 # GithubSampleRepo
+Readme file edited
